@@ -1,1 +1,1 @@
-# Foi um projeto de estudos de desenvolvimento 
+# Foi um projeto de estudos de desenvolvimento desktop 
